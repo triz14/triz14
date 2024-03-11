@@ -1,4 +1,4 @@
-### Olá eu sou a Beatriz Novais
+### Olá eu sou a Beatriz Novais (:
 
 - 🌱 estudando phyton, javascript, html e css
 - 😄 Pronouns: ela/dela
