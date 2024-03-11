@@ -1,6 +1,6 @@
 ### Olá eu sou a Beatriz Novais (:
 
-- 🌱 estudando phyton, javascript, html e css
+- 🌱 Estudando phyton, javascript, html e css
 - 😄 Pronouns: ela/dela
 
 <div>
