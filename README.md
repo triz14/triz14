@@ -3,7 +3,7 @@
 Estudante do 3º ano de Engenharia de Software com paixão por tecnologia e inovação. Atualmente, estou aprofundando meus conhecimentos e habilidades na área de **DevOps**, com foco especial em **Linux** e automação de infraestrutura. Meu objetivo é construir soluções robustas e eficientes, aplicando as melhores práticas do mercado.
 
 ### 🛠️ Tecnologias e Linguagens
-<div style="display: inline_block">
+<div>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,7 @@ Estudante do 3º ano de Engenharia de Software com paixão por tecnologia e inov
 </div>
 
 ### 🚀 Foco em DevOps
-<div style="display: inline_block">
+<div>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
